@@ -2,6 +2,12 @@
 
 An interactive and visually appealing podium for showcasing the top three entities (tokens, articles, etc.), specifically designed for Cryptoast as part of a front-end developer internship test.
 
+---
+
+<img width="1426" alt="podium" src="cryptoast_podium.png">
+
+---
+
 ## 🌟 Features
 
 - **Fully Responsive:** The podium adjusts dynamically for different screen sizes, ensuring an optimal user experience on desktop and mobile devices.
