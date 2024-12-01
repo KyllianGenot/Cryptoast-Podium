@@ -1,0 +1,23 @@
+[
+    {
+        "rank": "1",
+        "logo": "assets/logos/btc.png",
+        "subtitle": "Bitcoin (BTC)",
+        "description": "The original cryptocurrency, leading the market since its inception.",
+        "link": "https://bitcoin.org"
+    },
+    {
+        "rank": "2",
+        "logo": "assets/logos/eth.png",
+        "subtitle": "Ethereum (ETH)",
+        "description": "The second-largest crypto by market cap, popular for smart contracts.",
+        "link": "https://ethereum.org"
+    },
+    {
+        "rank": "3",
+        "logo": "assets/logos/bnb.png",
+        "subtitle": "Binance Coin (BNB)",
+        "description": "The native token of Binance, supporting its blockchain ecosystem.",
+        "link": "https://www.binance.com"
+    }
+]
