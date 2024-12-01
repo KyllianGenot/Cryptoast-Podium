@@ -82,6 +82,7 @@ body {
     margin: 20px 0 50px 0;
     background: linear-gradient(90deg, #FE904D, #FD6D6A);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     align-self: flex-start;
     margin-left: 100px;
