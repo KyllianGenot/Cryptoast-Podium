@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 });
 
                 spot.innerHTML = `
-                    <img class="spot-logo" src="${data.logo}" alt="${data.subtitle}">
+                    <img class="spot-logo" src="${data.logo}" alt="${data.subtitle}" loading="lazy">
                     <div class="rank-label">#${data.rank}</div>
                     <div class="spot-content">
                         <div class="spot-subtitle">${data.subtitle}</div>
